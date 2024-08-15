@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "639159241354",
+    "project_id": "mynewsapp-23552",
+    "storage_bucket": "mynewsapp-23552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639159241354:android:ee9018182d8a149dd07b73",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAguR_9tx0ecC0TBRE9oThcsbPASm-Iq9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639159241354:android:5d086ead9a415608d07b73",
+        "android_client_info": {
+          "package_name": "com.manikbora.mynewsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAguR_9tx0ecC0TBRE9oThcsbPASm-Iq9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639159241354:android:8c0f353041435bcdd07b73",
+        "android_client_info": {
+          "package_name": "com.mubarak.newscastmb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAguR_9tx0ecC0TBRE9oThcsbPASm-Iq9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
